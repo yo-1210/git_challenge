@@ -1,0 +1,17 @@
+  144  rm -rf .git\n
+  145  rm -rf *\n
+  146  rm -rf .git\n
+  147  git init\n
+  148  git reset\n
+  149  git reset\ngit reset\nrm -rf .git\n
+  150  rm -rf *\n
+  151  rm -rf git_challenge
+  152  cd ..\nrm -rf git_challenge\n
+  153  cd git_challenge
+  154  ls\n
+  155  cd ~/Downloads/git_challenge\n
+  156  mkdir kadai_005\n
+  157  ls\n
+  158  cd kadai_005
+  159  touch kadai_005.txt
+  
